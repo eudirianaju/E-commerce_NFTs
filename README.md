@@ -33,3 +33,10 @@ Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato c
 ## LinkedIn 💼
 
 Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/ana-julia-nunes-melo-12855822a/).
+
+
+
+
+## 
+![screencapture-127-0-0-1-5500-navbar-html-2024-01-28-16_25_59](https://github.com/eudirianaju/E-commerce_NFTs/assets/100884185/c37a5815-ec2a-4f48-9006-56d370657723)
+
