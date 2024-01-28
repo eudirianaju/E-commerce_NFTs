@@ -13,7 +13,7 @@ Recentemente, enquanto explorava o vasto universo do Figma Community, me deparei
 🔜 Estou comprometida em aprimorar ainda mais esta Landing Page. Minha próxima missão é torná-la totalmente responsiva, garantindo uma experiência consistente em todos os dispositivos.
 
 
-## Credito ao designer
+## Creditos ao designer
 Agradeço ao Daniel por sua inspiração e a todos que explorarem esta página. Fique à vontade para deixar feedback e, claro, acompanhe as atualizações que estão por vir! 🚀✨
 
 Perfil do criador: https://www.figma.com/@Doadesignz
