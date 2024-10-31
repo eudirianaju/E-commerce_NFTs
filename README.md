@@ -6,13 +6,6 @@ Recentemente, enquanto explorava o vasto universo do Figma Community, me deparei
 # Tecnologias Utilizadas
 ⚙️ Desenvolvi esta Landing Page exclusivamente com HTML e CSS. Mantendo simplicidade e elegância, busquei criar uma experiência envolvente para os entusiastas de NFTs.
 
-# Objetivo do Projeto
-🎨 O foco inicial foi materializar o design de Daniel, capturando sua essência e proporcionando aos visitantes uma experiência visualmente atraente e intuitiva.
-
-# Futuras Atualizações
-🔜 Estou comprometida em aprimorar ainda mais esta Landing Page. Minha próxima missão é torná-la totalmente responsiva, garantindo uma experiência consistente em todos os dispositivos.
-
-
 ## Creditos ao designer
 Agradeço ao Daniel por sua inspiração e a todos que explorarem esta página. Fique à vontade para deixar feedback e, claro, acompanhe as atualizações que estão por vir! 🚀✨
 
@@ -21,16 +14,6 @@ Perfil do criador: https://www.figma.com/@Doadesignz
 Prototipo: https://www.figma.com/community/file/1123953241600555890/nft-marketplace
 
 
-
-## Contato 📬
-
-Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo:
-
-- Email: nunesmeloanajulia@gmail.com
-
-## LinkedIn 💼
-
-Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/ana-julia-nunes-melo-12855822a/).
 
 
 
