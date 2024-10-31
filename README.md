@@ -3,11 +3,12 @@
 
 Recentemente, enquanto explorava o Figma Community, encontrei um design incrível do talentoso Daniel (@Doadesignz). Inspirada por sua criatividade, coloquei minhas habilidades de desenvolvimento web em prática e agora compartilho este projeto em meu portfólio.
 
-##Tecnologias Utilizadas
+
+Tecnologias Utilizadas
 
 ⚙️ Esta Landing Page foi desenvolvida exclusivamente com HTML e CSS, buscando criar uma experiência envolvente para os entusiastas de NFTs. Ainda não está responsiva, mas futuramente será!
 
-##Créditos ao Designer
+Créditos ao Designer
 
 Agradeço ao Daniel pela inspiração e a todos que explorarem esta página. Fique à vontade para deixar feedback e acompanhe as atualizações que estão por vir! 🚀✨
 
